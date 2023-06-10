@@ -1,0 +1,17 @@
+<style>
+    .tengah {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 200px; /* Sesuaikan dengan tinggi yang diinginkan */
+        width: 300px; /* Sesuaikan dengan lebar yang diinginkan */
+    }
+    .body {
+        background-image: url('image/biru.jpg');
+        background-size: cover;
+        background-position: center;
+      }
+    #paragraf{
+        color: white;
+    }
+</style>
